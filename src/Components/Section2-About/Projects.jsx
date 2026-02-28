@@ -7,7 +7,7 @@ const Projects = () => {
             name:"Stock Scope ( Stock Market Data )",
             status:"Completed",
             desc:"Built a stock market application that provides free access to stocks, mutual funds, IPOs, and live Sensex/Nifty data. Features include full historical data, interactive line and candlestick charts, API-driven real-time updates, and a wishlist for tracking favorite assets.",
-            SourceCode:"/a",
+            SourceCode:"https://github.com/bhargavsunny912/stock-scope-frontend",
             TechStack:["REACT.JS","REDUX TOOLKIT","TAILWIND CSS","NODE.JS","REST API'S","MUI"]
         },
         {
