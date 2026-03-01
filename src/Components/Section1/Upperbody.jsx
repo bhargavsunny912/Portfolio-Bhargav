@@ -11,6 +11,10 @@ const Upperbody=()=>{
                 <div className="flex flex-col gap-4">
                     <h2 className="font-semibold text-3xl">Bhargav Penta</h2>
                     <p className=" bg-color4 rounded-xl text-sm py-1 px-10 border border-color3">Full Stack Developer</p>
+                    <p className="flex items-center justify-around">
+                        <a target="_blank" href="/Bhargav_Penta_2026.pdf" className=" bg-color4 rounded-xl text-sm px-3 py-1 border border-color3">View CV</a>
+                        <a href="/Bhargav_Penta_2026.pdf" download="Bhargav_Penta_2026.pdf" className=" bg-color4 rounded-xl text-sm px-3 py-1 border border-color3">Download CV</a>
+                    </p>
                 </div>
             </div>
 
