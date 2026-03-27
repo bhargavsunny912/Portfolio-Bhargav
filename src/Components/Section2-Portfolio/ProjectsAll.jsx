@@ -4,6 +4,8 @@ const Projects=()=>{
 
     const Details=[
         {projectname:"Stock Scope (Market Data)",projectdomain:"Web Development",navigationlink:"https://stock-scope-frontend-nine.vercel.app/",imgurl:"/stock-market.webp"},
+        {projectname:"AI-Resume-Builder",projectdomain:"Web Development",navigationlink:"https://ai-resume-builder-frontend-phi.vercel.app/",imgurl:"/AI-Resume-Builder.png"},
+        {projectname:"Resume Sense AI",projectdomain:"Web Development",navigationlink:"https://github.com/bhargavsunny912/ResumeSenseAI",imgurl:"/resume-sense-ai.png"},
         {projectname:"Airbnb (Travel Application)",projectdomain:"Web Development",navigationlink:"https://airbnb-miniversion.onrender.com/listing",imgurl:"/Airbnb.avif"},
         {projectname:"Animated Portfolio",projectdomain:"Web Development",navigationlink:"https://react-portfolio-animated.onrender.com/",imgurl:"https://mir-s3-cdn-cf.behance.net/projects/404/28ceb2220930093.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg"},
         {projectname:"Safe Video Transmission",projectdomain:"Application",navigationlink:"/a",imgurl:"/Video-Encryption.webp"},
